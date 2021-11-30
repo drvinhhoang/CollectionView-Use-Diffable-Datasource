@@ -13,6 +13,7 @@
 		AFAF5E9F2755FD1000D9AE78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFAF5E9D2755FD1000D9AE78 /* Main.storyboard */; };
 		AFAF5EA12755FD1300D9AE78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFAF5EA02755FD1300D9AE78 /* Assets.xcassets */; };
 		AFAF5EA42755FD1300D9AE78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFAF5EA22755FD1300D9AE78 /* LaunchScreen.storyboard */; };
+		AFAF5EAC2756102300D9AE78 /* NumberCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAF5EAB2756102300D9AE78 /* NumberCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AFAF5EA02755FD1300D9AE78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AFAF5EA32755FD1300D9AE78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AFAF5EA52755FD1300D9AE78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFAF5EAB2756102300D9AE78 /* NumberCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				AFAF5E972755FD1000D9AE78 /* AppDelegate.swift */,
 				AFAF5E992755FD1000D9AE78 /* SceneDelegate.swift */,
+				AFAF5EAB2756102300D9AE78 /* NumberCell.swift */,
 				AFAF5E9B2755FD1000D9AE78 /* ViewController.swift */,
 				AFAF5E9D2755FD1000D9AE78 /* Main.storyboard */,
 				AFAF5EA02755FD1300D9AE78 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFAF5EAC2756102300D9AE78 /* NumberCell.swift in Sources */,
 				AFAF5E9C2755FD1000D9AE78 /* ViewController.swift in Sources */,
 				AFAF5E982755FD1000D9AE78 /* AppDelegate.swift in Sources */,
 				AFAF5E9A2755FD1000D9AE78 /* SceneDelegate.swift in Sources */,
